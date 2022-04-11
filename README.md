@@ -1,4 +1,3 @@
-<div id="top"></div>
 <h3 align="center">Health Social</h3>
 
   <p align="center">
@@ -140,12 +139,6 @@ To add data using Prisma Studio:
 
 ## Contact
 
-Your Name - [@neil_gebhard](https://twitter.com/neil_gebhard) - email@email_client.com
+Your Name - [@neil_gebhard](https://twitter.com/neil_gebhard)
 
 Project Link: [https://github.com/neilgebhard/social-network-health](https://github.com/neilgebhard/social-network-health)
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[issues-shield]: https://img.shields.io/github/issues/neilgebhard/social-network-health.svg?style=for-the-badge
-[issues-url]: https://github.com/neilgebhard/social-network-health/issues
