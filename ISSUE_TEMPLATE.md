@@ -1,29 +1,18 @@
-# Issue Template
+- [ ] Bug
+- [ ] Feature
 
 ## Context
 
-Please provide any relevant information about your setup.
+Please provide the expected behavior, the current behavior, and any other relevant info here.
 
-## Expected Behavior
+## Steps to Reproduce
 
-What is the expected behavior?
-
-## Current Behavior
-
-What is the current behavior?
-
-## Failure Information (for bugs)
-
-Please help provide information about the failure if this is a bug. If it is not a bug, please remove the rest of this template.
-
-### Steps to Reproduce
-
-Please provide detailed steps for reproducing the issue.
+Please provide steps for reproducing the issue.
 
 1. step 1
 2. step 2
-3. you get it...
+3. step 3...
 
-### Failure Logs
+## Failure Logs
 
 Please include any relevant log snippets or files here.
