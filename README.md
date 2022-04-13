@@ -112,10 +112,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Prisma
 
-Adjust database schema by creating the actual tables:
-
-`npx prisma db push`
-
 To configure your database to use the new schema (i.e. create tables and columns):
 
 `npx prisma migrate dev`
