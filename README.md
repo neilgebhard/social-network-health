@@ -135,6 +135,6 @@ To add data using Prisma Studio:
 
 ## Contact
 
-Your Name - [@neil_gebhard](https://twitter.com/neil_gebhard)
+Neil Gebhard - [@neil_gebhard](https://twitter.com/neil_gebhard)
 
 Project Link: [https://github.com/neilgebhard/social-network-health](https://github.com/neilgebhard/social-network-health)
